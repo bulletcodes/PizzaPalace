@@ -1,0 +1,87 @@
+/* nav */
+.navbar{
+	background-color:#2B7A0B;
+	position:fixed;
+}
+
+body{
+	font-family:"Montserrat";
+}
+
+.heading{
+	padding:100px;
+	background-color:#5BB318;
+	text-align:center;
+}
+
+.left{
+	padding-top:100px;
+}
+
+.button{
+	padding:20px 30px;
+}
+
+
+/* pricing */
+.pricing{
+	text-align:center;
+	color:black;
+	margin-top:50px;
+	
+}
+
+.pricing-card{
+	padding-top:30px;
+}
+
+/* place your order */
+.form{
+	text-align:center;
+	background-color:#5BB318;
+	line-height:13px;
+	margin:50px 0px;
+}
+
+.delivery{
+	border:3px solid white;
+	font-size:15px;
+}
+
+.ord{
+	padding:15px;
+}
+
+label{
+	padding:3% 5%
+}
+
+.features{
+	text-align:center;
+}
+
+h2{
+	padding-bottom:30px;
+}
+
+.icon{
+	font-size:50px;
+	color:#5BB318;
+}
+
+/* footer */
+.conclusion{
+	background-color:#5BB318;
+	height:100px;
+	text-align:center;
+	margin-top:50px;
+}
+
+.fb{
+	padding:20px 30px 10px;
+	color:#fff;
+}
+
+.footer{
+	padding-top:30px;
+}
